@@ -1,3 +1,16 @@
+@media screen and (max-width: 2000px) {
+  body {
+    background-color: Gray;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: teal;
+  }
+}
+
 img {
   width: 250px;
 }
