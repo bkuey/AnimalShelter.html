@@ -1,0 +1,49 @@
+img {
+  width: 250px;
+}
+
+h1 {
+  color: Gold;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  margin: 12px;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  margin: 12px;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  margin: 12px;
+}
+
+.Raffy li {
+  color: Blue;
+}
+
+.Simba li {
+  color: Orange;
+}
+
+.Tarzan li {
+  color: Green;
+}
+
+.column p {
+  color: Pink;
+}
+
+.column2 p {
+  color: Purple;
+}
+
+.column3 p {
+  color: Red;
+}
